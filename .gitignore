@@ -13,4 +13,7 @@ artifacts
 artifacts-zk
 cache-zk
 
+yarn.lock
+package.json
+readme.txt
 Notes.md
